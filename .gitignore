@@ -64,3 +64,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .Rproj.user
+
+# Folder for large files
+large-files/
